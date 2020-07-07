@@ -6,7 +6,7 @@ While many public datasets (on Kaggle and the like) provide Apple App Store data
 Content
 Each app (row) has values for catergory, rating, size, and more.
 
-I have cleaned the data using Python and Jupyter Notebook.
+I have cleaned the data using Python and Jupyter Notebook and performed EDA (Expolatory Data Analysis).
 
 Acknowledgements
 This information is scraped from the Google Play Store. This app information would not be available without it.
